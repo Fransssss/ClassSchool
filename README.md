@@ -4,7 +4,7 @@ Create school class and set name, rating, and comment
 
 Goals
 - Create School class
-- Create object type class
+- Create object type School class
 - Setname, SetRating, SetComment to each class' object
 
 
